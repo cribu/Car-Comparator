@@ -1,2 +1,2 @@
 # Car-Comparator
-compare two or more cars
+- compare two or more brand new cars
